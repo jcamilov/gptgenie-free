@@ -1,3 +1,7 @@
+## GPT Genie
+
+This the website for GPT Genie outside wix. It is to be hosted in vercel, netlify or similar.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
